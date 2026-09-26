@@ -1,0 +1,6 @@
+{
+  "name": "MYRAAA JARVIS AI",
+  "description": "Futuristic JARVIS-style holographic AI mobile assistant with interactive 3D Arc Reactor HUD, voice control, system telemetry, and Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

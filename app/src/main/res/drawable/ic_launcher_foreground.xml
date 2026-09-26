@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Arc Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54m-30,0a30,30 0 1,0 60,0a30,30 0 1,0 -60,0"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00F2FE" />
+    <!-- Segmented Inner Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54m-22,0a22,22 0 1,0 44,0a22,22 0 1,0 -44,0"
+        android:strokeWidth="4"
+        android:strokeColor="#00C9FF" />
+    <!-- Inner Core Circle -->
+    <path
+        android:fillColor="#E6F8FF"
+        android:pathData="M54,54m-10,0a10,10 0 1,0 20,0a10,10 0 1,0 -20,0" />
+    <!-- Crosshair ticks -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,20L54,30M54,78L54,88M20,54L30,54M78,54L88,54"
+        android:strokeWidth="2"
+        android:strokeColor="#00F2FE" />
+</vector>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MYRAAA JARVIS AI</string>
+    <string name="ai_name">MYRAAA</string>
+    <string name="ai_subtitle">ADVANCED MOBILE INTERFACE // MARK IV</string>
+    <string name="status_online">SYSTEM ONLINE</string>
+    <string name="status_listening">LISTENING…</string>
+    <string name="status_processing">ANALYZING INTEL…</string>
+    <string name="status_speaking">TRANSMITTING VOICE…</string>
+    <string name="tap_to_speak">TAP ARC REACTOR OR MIC TO COMMAND</string>
+    <string name="mic_listening">JARVIS LISTENING… SPEAK NOW</string>
+</resources>
